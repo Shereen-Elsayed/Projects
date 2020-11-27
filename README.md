@@ -6,10 +6,10 @@ In this project, we try to tackle the parking problem by answering the following
 Is there a correlation between the amount of historical training data and external features? These questions are evaluated by applying three well-known time series forecasting models; long short term memory, convolutional neural network, and multilayer perceptron.
 This is the implementation of the work proposed in "Exploring the Influence of Data Aggregation in Parking Prediction", presented in "MLkgraphs workshop" at the DEXA conference 2020.
 
-2. Multi-Processing: This folder contains different implementations using MPI library for Multiprocessing in python,
-      1.1. Calculating Image Histogram manually in parallel.
-      1.2. K-Means clustering.
-      1.3. Matrix Multiplication.
+2. Multi-Processing: This folder contains different implementations using MPI library for Multiprocessing in python:
+      1. Calculating Image Histogram manually in parallel.
+      2. K-Means clustering.
+      3. Matrix Multiplication.
 
 3. Simple Image Classification model using Tensorflow CNN structure.
 
